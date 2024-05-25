@@ -1,5 +1,5 @@
 <h1 align="center">Nyahallo~! I'm MiLKY-Dev</h1>
-<h3 align="center">A hobbyist programmer, designer, musician, and etc.</h3>
+<h3 align="center">A hobbyist programmer, designer, musician, and etc. Student at STI College Sta. Cruz</h3>
 
 - 🔭 I’m currently working on [milkywaydotmoe site](https://milkyway.moe)
 
